@@ -1,0 +1,7 @@
+.mvn
+.vscode
+.gitattributes
+mvnw
+mvnw.cmd
+pom.xml
+src/main/resources/application.properties

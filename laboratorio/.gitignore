@@ -1,7 +1,9 @@
 .mvn
 .vscode
+target
 .gitattributes
 mvnw
 mvnw.cmd
 pom.xml
 src/main/resources/application.properties
+src/main/resources/application-dev.properties

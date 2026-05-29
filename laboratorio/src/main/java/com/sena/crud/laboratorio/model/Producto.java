@@ -23,8 +23,14 @@ public class Producto {
     @Column(nullable = false, length = 200)
     private String descripcion;
 
+    @Column(nullable = false, length = 200)
+    private String categoria;
+
     @Column(insertable = true)
     private Double precio;
+
+    @Column(insertable = true)
+    private Long stock;
 
     @Column(nullable = false, length = 200)
     private String estado;
@@ -77,4 +83,19 @@ public class Producto {
         this.estado = estado;
     }
 
+    public Long getStock() {
+        return stock;
+    }
+
+    public void setStock(Long stock) {
+        this.stock = stock;
+    }
+
+    public String getCategoria() {
+        return categoria;
+    }
+
+    public void setCategoria(String categoria) {
+        this.categoria = categoria;
+    }
 }

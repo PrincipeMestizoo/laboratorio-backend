@@ -11,7 +11,8 @@ public class Mapper {
                 producto.getNombreProducto(),
                 producto.getDescripcion(),
                 producto.getPrecio(),
-                producto.getEstado());
+                producto.getEstado(),
+                producto.getCategoria());
 
         return productoGetDto;
     }

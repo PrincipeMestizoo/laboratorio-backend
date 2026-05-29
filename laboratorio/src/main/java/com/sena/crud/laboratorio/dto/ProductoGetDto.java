@@ -5,7 +5,8 @@ public record ProductoGetDto(
         String nombreProducto,
         String descripcion,
         Double precio,
-        String estado) {
+        String estado,
+        String categoria) {
 
     @Override
     public String toString() {

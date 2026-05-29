@@ -1,4 +1,5 @@
 .mvn
+.idea
 .vscode
 target
 .gitattributes

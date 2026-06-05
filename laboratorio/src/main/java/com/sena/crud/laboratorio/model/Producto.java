@@ -23,7 +23,7 @@ public class Producto {
     @Column(nullable = false, length = 200)
     private String descripcion;
 
-    @Column(nullable = false, length = 200)
+    @Column(nullable = true, length = 200)
     private String categoria;
 
     @Column(insertable = true)

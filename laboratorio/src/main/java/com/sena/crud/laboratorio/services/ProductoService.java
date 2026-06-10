@@ -54,11 +54,10 @@ public class ProductoService {
             productoEncontrado.setPrecio(producto.precio());
             productoEncontrado.setStock(producto.stock());
             productoEncontrado.setDescripcion(producto.descripcion());
+            productoRepository.save(productoEncontrado);
             isUpdated = true;
         }
 
-        assert productoEncontrado != null;
-        productoRepository.save(productoEncontrado);
 
         return isUpdated;
     }

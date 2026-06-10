@@ -1,0 +1,10 @@
+/home/danielgonzalez/Documentos/Sena/Backend/laboratorio-Backend/laboratorio/src/main/java/com/sena/crud/laboratorio/LaboratorioApplication.java
+/home/danielgonzalez/Documentos/Sena/Backend/laboratorio-Backend/laboratorio/src/main/java/com/sena/crud/laboratorio/RestServiceCorsApplication.java
+/home/danielgonzalez/Documentos/Sena/Backend/laboratorio-Backend/laboratorio/src/main/java/com/sena/crud/laboratorio/controller/ProductoController.java
+/home/danielgonzalez/Documentos/Sena/Backend/laboratorio-Backend/laboratorio/src/main/java/com/sena/crud/laboratorio/dto/ProductoCreateDto.java
+/home/danielgonzalez/Documentos/Sena/Backend/laboratorio-Backend/laboratorio/src/main/java/com/sena/crud/laboratorio/dto/ProductoGetDto.java
+/home/danielgonzalez/Documentos/Sena/Backend/laboratorio-Backend/laboratorio/src/main/java/com/sena/crud/laboratorio/dto/ProductoUpdateDto.java
+/home/danielgonzalez/Documentos/Sena/Backend/laboratorio-Backend/laboratorio/src/main/java/com/sena/crud/laboratorio/mapping/Mapper.java
+/home/danielgonzalez/Documentos/Sena/Backend/laboratorio-Backend/laboratorio/src/main/java/com/sena/crud/laboratorio/model/Producto.java
+/home/danielgonzalez/Documentos/Sena/Backend/laboratorio-Backend/laboratorio/src/main/java/com/sena/crud/laboratorio/repository/ProductoRepository.java
+/home/danielgonzalez/Documentos/Sena/Backend/laboratorio-Backend/laboratorio/src/main/java/com/sena/crud/laboratorio/services/ProductoService.java

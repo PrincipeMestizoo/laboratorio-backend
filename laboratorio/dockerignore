@@ -1,0 +1,19 @@
+# Carpeta de build local (el Dockerfile la regenera)
+target/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
